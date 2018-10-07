@@ -1,0 +1,82 @@
+.top-bar{
+  background-color: rgb(184,0,0);
+  width: 100%;
+  color: white;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  font-size: 40px;
+  padding-left: 20px;
+}
+
+.login{
+  font-size: 20px;
+  padding-right: 20px;
+  color: white;
+}
+.gray-bar{
+  background-color: rgb(48,48,48);
+  width: 100%;
+  color: white;
+  padding: 15px 0;
+  display: flex;
+  justify-content: flex-end;
+}
+.links{
+  color: white;
+  padding:  0 10px;
+}
+
+.main-section{
+  display: flex;
+  width: 100%;
+  padding: 20px;
+}
+
+.left-section{
+  width: 70%;
+}
+
+.main-img{
+  width: 100%;
+  height: 70%;
+}
+
+.left-title{
+  padding-left:20px;
+  padding-top: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.paragraph{
+  padding: 20px 20px 0 20px;
+}
+
+.right-section{
+  display: flex;
+  width: 18%;
+  flex-direction: column;
+  font-weight: bold;
+  font-size: 20px;
+  padding-left: 80px;
+  padding-right: 10px;
+}
+
+.side-img {
+  width: 100%;
+  height: 22%;
+  padding-top: 10px;
+  padding-bottom: 80px;
+}
+
+.bottom{
+  width: 100%;
+  background-color: rgb(48,48,48);
+  color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
